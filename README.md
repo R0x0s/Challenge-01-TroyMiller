@@ -3,7 +3,7 @@ What I did first was get rid of any major "Div Class" with another syntax on lin
 
 Made changes to the CSS to correspond with the new syntaxes. 
 
-Also adjusted the aside padding from 20px to 18px to be in line with the section as it pertruded below it.
+Also adjusted the aside padding from 20px to 39px to be in line with the section there was a gap betweem it and the section.
 
 Changed the class of "img src="./assets/images/online-reputation-management.jpg"" on line 43 to float-left, to make the picture be on the left and text on the right. As I felt it was too heavy on the right side with it being right next to the second aside picture.
 

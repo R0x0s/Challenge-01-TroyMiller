@@ -77,11 +77,11 @@ section {
 
 .benefits, aside {
     margin-right: 20px;
-    padding: 18px;
+    padding: 39px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 200%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
