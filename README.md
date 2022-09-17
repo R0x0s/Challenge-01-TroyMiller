@@ -13,4 +13,4 @@ Gave all images alt attributes.
 
 Overal organization of the code as well.  
 
-
+Gave the website a title that described the company.
